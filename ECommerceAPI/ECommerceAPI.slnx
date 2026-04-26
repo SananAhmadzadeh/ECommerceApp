@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/ECommerceAPI.Application/ECommerceAPI.Application.csproj" />
+    <Project Path="Core/EECommerceAPI.Domain/EECommerceAPI.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/ECommerceAPI.Infrastructure/ECommerceAPI.Infrastructure.csproj" />
+    <Project Path="Infrastructure/ECommerceAPI.Persistence/ECommerceAPI.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/ECommerceAPI.API/ECommerceAPI.API.csproj" />
+  </Folder>
+</Solution>

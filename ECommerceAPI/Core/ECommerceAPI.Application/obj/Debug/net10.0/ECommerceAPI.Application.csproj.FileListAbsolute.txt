@@ -1,0 +1,16 @@
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Application.deps.json
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Application.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Application.pdb
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\EECommerceAPI.Domain.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\EECommerceAPI.Domain.pdb
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.csproj.AssemblyReference.cache
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.AssemblyInfoInputs.cache
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.AssemblyInfo.cs
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.sourcelink.json
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerc.F181CD37.Up2Date
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\refint\ECommerceAPI.Application.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.pdb
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ref\ECommerceAPI.Application.dll

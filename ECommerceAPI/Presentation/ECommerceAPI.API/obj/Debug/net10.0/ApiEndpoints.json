@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ECommerceAPI.API.Controllers.ValuesController",
+    "Method": "Get",
+    "RelativePath": "api/Values/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
