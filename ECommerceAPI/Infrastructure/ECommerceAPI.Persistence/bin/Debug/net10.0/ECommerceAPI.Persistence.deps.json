@@ -671,7 +671,8 @@
       },
       "ECommerceAPI.Application/1.0.0": {
         "dependencies": {
-          "EECommerceAPI.Domain": "1.0.0"
+          "ECommerceAPI.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "10.0.7"
         },
         "runtime": {
           "ECommerceAPI.Application.dll": {
@@ -680,9 +681,9 @@
           }
         }
       },
-      "EECommerceAPI.Domain/1.0.0": {
+      "ECommerceAPI.Domain/1.0.0": {
         "runtime": {
-          "EECommerceAPI.Domain.dll": {
+          "ECommerceAPI.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -974,7 +975,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EECommerceAPI.Domain/1.0.0": {
+    "ECommerceAPI.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

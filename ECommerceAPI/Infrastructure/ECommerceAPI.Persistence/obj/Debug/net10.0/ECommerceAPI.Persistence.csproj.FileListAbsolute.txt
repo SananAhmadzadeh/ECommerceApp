@@ -3,9 +3,7 @@ C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Per
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net10.0\ECommerceAPI.Persistence.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net10.0\ECommerceAPI.Persistence.pdb
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net10.0\ECommerceAPI.Application.dll
-C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net10.0\EECommerceAPI.Domain.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net10.0\ECommerceAPI.Application.pdb
-C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net10.0\EECommerceAPI.Domain.pdb
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net10.0\ECommerceAPI.Persistence.csproj.AssemblyReference.cache
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net10.0\ECommerceAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net10.0\ECommerceAPI.Persistence.AssemblyInfoInputs.cache
@@ -18,3 +16,5 @@ C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Per
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net10.0\ECommerceAPI.Persistence.pdb
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net10.0\ECommerceAPI.Persistence.genruntimeconfig.cache
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\obj\Debug\net10.0\ref\ECommerceAPI.Persistence.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net10.0\ECommerceAPI.Domain.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Infrastructure\ECommerceAPI.Persistence\bin\Debug\net10.0\ECommerceAPI.Domain.pdb

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geniu\\Desktop\\ECommerceApp\\ECommerceAPI\\Core\\EECommerceAPI.Domain\\EECommerceAPI.Domain.csproj",
-      "projectName": "EECommerceAPI.Domain",
-      "projectPath": "C:\\Users\\geniu\\Desktop\\ECommerceApp\\ECommerceAPI\\Core\\EECommerceAPI.Domain\\EECommerceAPI.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\geniu\\Desktop\\ECommerceApp\\ECommerceAPI\\Core\\EECommerceAPI.Domain\\ECommerceAPI.Domain.csproj",
+      "projectName": "ECommerceAPI.Domain",
+      "projectPath": "C:\\Users\\geniu\\Desktop\\ECommerceApp\\ECommerceAPI\\Core\\EECommerceAPI.Domain\\ECommerceAPI.Domain.csproj",
       "packagesPath": "C:\\Users\\geniu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\geniu\\Desktop\\ECommerceApp\\ECommerceAPI\\Core\\EECommerceAPI.Domain\\obj\\",
       "projectStyle": "PackageReference",

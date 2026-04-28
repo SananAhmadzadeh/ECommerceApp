@@ -1,4 +1,4 @@
-﻿using EECommerceAPI.Domain.Entities;
+﻿using ECommerceAPI.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace ECommerceAPI.Persistence.Context;

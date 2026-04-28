@@ -959,7 +959,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "EECommerceAPI.Domain": "1.0.0"
+          "ECommerceAPI.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "10.0.7"
         },
         "compile": {
           "bin/placeholder/ECommerceAPI.Application.dll": {}
@@ -968,14 +969,14 @@
           "bin/placeholder/ECommerceAPI.Application.dll": {}
         }
       },
-      "EECommerceAPI.Domain/1.0.0": {
+      "ECommerceAPI.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "compile": {
-          "bin/placeholder/EECommerceAPI.Domain.dll": {}
+          "bin/placeholder/ECommerceAPI.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/EECommerceAPI.Domain.dll": {}
+          "bin/placeholder/ECommerceAPI.Domain.dll": {}
         }
       }
     }
@@ -3004,10 +3005,10 @@
       "path": "../../Core/ECommerceAPI.Application/ECommerceAPI.Application.csproj",
       "msbuildProject": "../../Core/ECommerceAPI.Application/ECommerceAPI.Application.csproj"
     },
-    "EECommerceAPI.Domain/1.0.0": {
+    "ECommerceAPI.Domain/1.0.0": {
       "type": "project",
-      "path": "../../Core/EECommerceAPI.Domain/EECommerceAPI.Domain.csproj",
-      "msbuildProject": "../../Core/EECommerceAPI.Domain/EECommerceAPI.Domain.csproj"
+      "path": "../../Core/ECommerceAPI.Domain/ECommerceAPI.Domain.csproj",
+      "msbuildProject": "../../Core/ECommerceAPI.Domain/ECommerceAPI.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
