@@ -26,6 +26,9 @@ C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\b
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\Newtonsoft.Json.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\Npgsql.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\System.CodeDom.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\System.Composition.AttributedModel.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\System.Composition.Convention.dll
@@ -98,9 +101,11 @@ C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\b
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\ECommerceAPI.Application.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\ECommerceAPI.Domain.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\ECommerceAPI.Persistence.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\ECommerceAPI.Application.pdb
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\ECommerceAPI.Persistence.pdb
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\ECommerceAPI.Domain.pdb
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net10.0\ECommerceAPI.API.csproj.AssemblyReference.cache
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net10.0\rpswa.dswa.cache.json
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net10.0\ECommerceAPI.API.GeneratedMSBuildEditorConfig.editorconfig
@@ -126,5 +131,3 @@ C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\o
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net10.0\ECommerceAPI.API.pdb
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net10.0\ECommerceAPI.API.genruntimeconfig.cache
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\obj\Debug\net10.0\ref\ECommerceAPI.API.dll
-C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\ECommerceAPI.Domain.dll
-C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Presentation\ECommerceAPI.API\bin\Debug\net10.0\ECommerceAPI.Domain.pdb

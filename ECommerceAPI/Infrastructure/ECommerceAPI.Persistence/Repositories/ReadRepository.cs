@@ -28,5 +28,6 @@ public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity
 
 
     public async Task<T> GetByIdAsync(string id)
-        => await Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id)) ?? throw new InvalidOperationException("Entity not found");
+        //=> await Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id)) ?? throw new InvalidOperationException("Entity not found");
+        => await Table.FindAsync(Guid.Parse(id)) ?? throw new InvalidOperationException("Entity not found");
 }

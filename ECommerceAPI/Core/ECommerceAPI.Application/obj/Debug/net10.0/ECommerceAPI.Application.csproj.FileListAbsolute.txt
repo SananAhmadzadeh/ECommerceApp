@@ -1,6 +1,8 @@
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Application.deps.json
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Application.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Application.pdb
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Domain.dll
+C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Domain.pdb
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.csproj.AssemblyReference.cache
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.AssemblyInfoInputs.cache
@@ -12,5 +14,3 @@ C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\o
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\refint\ECommerceAPI.Application.dll
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ECommerceAPI.Application.pdb
 C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\obj\Debug\net10.0\ref\ECommerceAPI.Application.dll
-C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Domain.dll
-C:\Users\geniu\Desktop\ECommerceApp\ECommerceAPI\Core\ECommerceAPI.Application\bin\Debug\net10.0\ECommerceAPI.Domain.pdb
